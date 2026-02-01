@@ -1,0 +1,23 @@
+# Visual Studio local settings
+.vs/
+
+# Build outputs
+PhotoMatch_x64/
+PhotoMatch_x86/
+bin/
+obj/
+Debug/
+Release/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Publish / installer
+Publish/
+Installer/
+*.msi
+*.exe
